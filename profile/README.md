@@ -1,4 +1,4 @@
-# Blockchain Supply Chain Project
+# Blockchain Supply Chain Application
 
 ## Overview
 
